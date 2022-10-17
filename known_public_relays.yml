@@ -1,0 +1,13 @@
+# Documents known public relays ran by HOPR Association
+environments:
+	monte_rosa:
+		- 
+		  peer_id: 16Uiu2HAmHgmp1HY23tWTFaTnrUn11Dfy8J2TzWgtGh41kJvWJE7V
+		  wallet_address: 0x183f994889811a97c492634ed91a4dD88939802e
+		  public: true
+		  announced: true
+		- 
+		  peer_id: 16Uiu2HAkvku8Ff7eV9LHMeWbq9FNFHWGnxD1QgndWmLaTHL2vXJk
+		  wallet_address: 0x8Bfb4a397dCE3a7C9295BF5aE802A47B40f2cae5
+		  public: true
+		  announced: true
