@@ -11,3 +11,13 @@ environments:
 		  wallet_address: 0x8Bfb4a397dCE3a7C9295BF5aE802A47B40f2cae5
 		  public: true
 		  announced: true
+		- 
+		  peer_id: 16Uiu2HAkwtTgxj7LxCn3iR9SGfn8WeEJJ8KFwmuE93tjSDtcoKLA
+		  public: true
+		  announced: true
+		  nick_name: M_Avado
+		- 
+		  peer_id: 16Uiu2HAmBUw1fj7xAQfAE4cmjm6M9BP7GMNCS4Y3cVsK3dvxKkW7
+		  public: true
+		  announced: true
+		  nick_name: A_Avado
