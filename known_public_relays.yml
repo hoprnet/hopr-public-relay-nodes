@@ -21,3 +21,8 @@ environments:
 		  public: true
 		  announced: true
 		  nick_name: A_Avado
+		- 
+		  peer_id: 16Uiu2HAmGTiQwvYbVSDPEyZuU7K5zHzbY1wxiELQaWcSB1wfueST
+		  public: true
+		  announced: true
+		  nick_name: A2_Avado
