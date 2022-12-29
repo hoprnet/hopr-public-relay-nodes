@@ -2,27 +2,17 @@
 environments:
 	monte_rosa:
 		- 
-		  peer_id: 16Uiu2HAmHgmp1HY23tWTFaTnrUn11Dfy8J2TzWgtGh41kJvWJE7V
-		  wallet_address: 0x183f994889811a97c492634ed91a4dD88939802e
-		  public: true
-		  announced: true
-		- 
-		  peer_id: 16Uiu2HAkvku8Ff7eV9LHMeWbq9FNFHWGnxD1QgndWmLaTHL2vXJk
-		  wallet_address: 0x8Bfb4a397dCE3a7C9295BF5aE802A47B40f2cae5
-		  public: true
-		  announced: true
-		- 
 		  peer_id: 16Uiu2HAkwtTgxj7LxCn3iR9SGfn8WeEJJ8KFwmuE93tjSDtcoKLA
 		  public: true
 		  announced: true
 		  nick_name: M_Avado
 		- 
-		  peer_id: 16Uiu2HAmBUw1fj7xAQfAE4cmjm6M9BP7GMNCS4Y3cVsK3dvxKkW7
+		  peer_id: 16Uiu2HAmBKsPMwGjYfFF6zw2SsEnJ3hNgGqFzvxjmxMRGR86eXTf
 		  public: true
 		  announced: true
-		  nick_name: A_Avado
+		  nick_name: A_VPS
 		- 
 		  peer_id: 16Uiu2HAkzKiYeQCkY6ERjfNg9HtwWCKCdCKTWwhGt4XpGY7bcmM5
 		  public: true
 		  announced: true
-		  nick_name: A_Avado2
+		  nick_name: A_Avado
