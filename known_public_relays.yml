@@ -15,4 +15,9 @@ environments:
 		  peer_id: 16Uiu2HAm8c8ri1hVCdtmLAL1x8M5CbTxfhXUUCcDEW6tPjrr8xor
 		  public: false
 		  announced: true
-		  nick_name: A_Avado
+		  nick_name: A_Dappnode
+		- 
+		  peer_id: 16Uiu2HAmVVjjzPCPaUThj1k2JerthXTFz2XjzThTU5aKmQ1vTGWR
+		  public: true
+		  announced: true
+		  nick_name: A_VPS
