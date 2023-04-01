@@ -7,12 +7,12 @@ environments:
 		  announced: true
 		  nick_name: M_Avado
 		- 
-		  peer_id: 16Uiu2HAm4A4jpfmvskkH3hmSMmRDm8w7JA7FHeX9YfWuqWT5ENRE
-		  public: true
+		  peer_id: 16Uiu2HAmSbkp4Znw6PXmsavWL7DMFhibw2d9ExBzrw8dDnugQfsJ
+		  public: false
 		  announced: true
-		  nick_name: A_VPS
+		  nick_name: A_Avado
 		- 
-		  peer_id: 16Uiu2HAkzKiYeQCkY6ERjfNg9HtwWCKCdCKTWwhGt4XpGY7bcmM5
-		  public: true
+		  peer_id: 16Uiu2HAm8c8ri1hVCdtmLAL1x8M5CbTxfhXUUCcDEW6tPjrr8xor
+		  public: false
 		  announced: true
 		  nick_name: A_Avado
