@@ -17,7 +17,7 @@ environments:
 		  announced: true
 		  nick_name: A_Dappnode
 		- 
-		  peer_id: 16Uiu2HAmVVjjzPCPaUThj1k2JerthXTFz2XjzThTU5aKmQ1vTGWR
+		  peer_id: 16Uiu2HAmJHBQNDhp6HTCVaQ2jHJ27RgzcXzkehTe9jxVKgzC8Rcy
 		  public: true
 		  announced: true
 		  nick_name: A_VPS
